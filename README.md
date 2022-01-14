@@ -1,5 +1,5 @@
 this 
 is
 a 
-cool 
+great 
 homework
